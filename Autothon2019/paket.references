@@ -4,3 +4,5 @@ Specflow
 RestSharp
 Selenium.WebDriver
 MSTest.TestAdapter
+Appium.WebDriver
+DotNetSeleniumExtras.WaitHelpers

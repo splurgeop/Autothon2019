@@ -1,5 +1,8 @@
 NUGET
   remote: https://api.nuget.org/v3/index.json
+    Appium.WebDriver (1.2.0.7)
+      Newtonsoft.Json (>= 6.0.6)
+      Selenium.WebDriver (>= 2.44)
     AutoMapper (6.2.2)
       Microsoft.CSharp (>= 4.3) - restriction: || (&& (< net40) (>= netstandard1.1) (< netstandard1.3)) (&& (< net40) (>= netstandard1.3))
       NETStandard.Library (>= 1.6.1) - restriction: || (&& (< net40) (>= netstandard1.1) (< netstandard1.3)) (&& (< net40) (>= netstandard1.3))
@@ -273,9 +276,9 @@ NUGET
     runtime.ubuntu.16.04-x64.runtime.native.System.Security.Cryptography.OpenSsl (4.3.3) - restriction: && (< monoandroid) (< monotouch) (< net451) (>= netstandard1.6) (< xamarinios) (< xamarinmac) (< xamarintvos) (< xamarinwatchos)
     runtime.ubuntu.16.10-x64.runtime.native.System.Security.Cryptography.OpenSsl (4.3.3) - restriction: && (< monoandroid) (< monotouch) (< net451) (>= netstandard1.6) (< xamarinios) (< xamarinmac) (< xamarintvos) (< xamarinwatchos)
     runtime.ubuntu.18.04-x64.runtime.native.System.Security.Cryptography.OpenSsl (4.3.3) - restriction: && (< monoandroid) (< monotouch) (< net451) (>= netstandard1.6) (< xamarinios) (< xamarinmac) (< xamarintvos) (< xamarinwatchos)
-    Selenium.Support (3.11)
-      Selenium.WebDriver (>= 3.11) - restriction: || (&& (>= net35) (< net40) (< netstandard2.0)) (&& (< net35) (>= netstandard2.0)) (&& (>= net40) (< netstandard2.0)) (>= net45)
-    Selenium.WebDriver (3.11)
+    Selenium.Support (3.141)
+      Selenium.WebDriver (>= 3.141) - restriction: || (&& (>= net35) (< net40) (< netstandard2.0)) (&& (< net35) (>= netstandard2.0)) (&& (>= net40) (< netstandard2.0)) (>= net45)
+    Selenium.WebDriver (3.141)
       Newtonsoft.Json (>= 10.0.3) - restriction: && (< net35) (>= netstandard2.0)
     Selenium.WebDriver.ChromeDriver (76.0.3809.12600)
     Selenium.WebDriver.GeckoDriver.Win64 (0.24)
