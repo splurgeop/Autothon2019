@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28922.388
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autothon.Core", "Autothon2019\Autothon.Core.csproj", "{FB45B3C7-69AE-47B6-BEDC-E4D9E59C6A9A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autothon.Core", "Autothon.Core\Autothon.Core.csproj", "{FB45B3C7-69AE-47B6-BEDC-E4D9E59C6A9A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestType", "TestType", "{0F94E36B-DF28-4854-A48A-8F450AD2AFE6}"
 EndProject

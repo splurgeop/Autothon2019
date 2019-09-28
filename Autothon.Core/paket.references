@@ -4,3 +4,6 @@ Specflow
 RestSharp
 Selenium.WebDriver
 MSTest.TestAdapter
+Nunit.Console
+Nunit.Engine
+log4net
